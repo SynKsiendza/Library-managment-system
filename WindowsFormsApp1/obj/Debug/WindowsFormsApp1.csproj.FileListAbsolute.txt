@@ -1,0 +1,14 @@
+D:\GIT\LMS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\GIT\LMS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\GIT\LMS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\GIT\LMS\WindowsFormsApp1\bin\Debug\en\WindowsFormsApp1.resources.dll
+D:\GIT\LMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\GIT\LMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\GIT\LMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LibMS.resources
+D:\GIT\LMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\GIT\LMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LibMS.en.resources
+D:\GIT\LMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\GIT\LMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\GIT\LMS\WindowsFormsApp1\obj\Debug\en\WindowsFormsApp1.resources.dll
+D:\GIT\LMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\GIT\LMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
